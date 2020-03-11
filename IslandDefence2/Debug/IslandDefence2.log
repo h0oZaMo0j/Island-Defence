@@ -1,0 +1,20 @@
+﻿  boat.cpp
+  defence.cpp
+  helpers.cpp
+  island.cpp
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(58): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(92): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(125): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\island.cpp(128): warning C4305: 'initializing': truncation from 'double' to 'float'
+  islandDefence.cpp
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\islanddefence.cpp(599): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\h0ozamo0j\documents\rmit\cosc1186 interactive 3d graphics and animation\island-defence\islanddefence2\islanddefence.cpp(602): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  missile.cpp
+  wave.cpp
+  Generating Code...
+  IslandDefence2.vcxproj -> C:\Users\h0oZaMo0j\Documents\RMIT\COSC1186 Interactive 3D Graphics and Animation\Island-Defence\Debug\IslandDefence2.exe
